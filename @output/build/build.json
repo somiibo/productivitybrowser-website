@@ -1,0 +1,30 @@
+{
+  "environment": "production",
+  "repo": {
+    "user": "somiibo",
+    "name": "productivitybrowser-website"
+  },
+  "npm-build": {
+    "timestamp_utc": "2022-01-01T01:08:14Z",
+    "timestamp_pst": "2021-12-31T18:08:14Z"
+  },
+  "gh-pages-push": {
+    "timestamp_utc": "2022-01-01T01:08:14Z",
+    "timestamp_pst": "2021-12-31T17:08:14Z"
+  },
+  "packages": {
+    "web-manager": "2.1.24"
+  },
+  "brand": {
+    "name": "Ultimate Jekyll",
+    "type": "Corporation",
+    "description": "Default description.",
+    "logo-image": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/socials/itw-creative-works-brandmark-black-1024x1024.png",
+    "logo-image-svg": "https://cdn.itwcreativeworks.com/assets/itw-creative-works/images/logo/itw-creative-works-brandmark-black-x.svg",
+    "address-locality": "Los Angeles",
+    "address-country": "United States"
+  },
+  "admin-dashboard-pages": {
+    "pages": []
+  }
+}
