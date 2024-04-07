@@ -5,13 +5,13 @@
     "name": "productivitybrowser-website"
   },
   "npm-build": {
-    "timestamp": "2024-04-01T00:37:16.306Z"
+    "timestamp": "2024-04-07T23:09:46.922Z"
   },
   "gh-pages-push": {
     "timestamp": "%GHP_TIMESTAMP%"
   },
   "packages": {
-    "web-manager": "3.2.45"
+    "web-manager": "3.2.46"
   },
   "brand": {
     "name": "Productivity Browser",
